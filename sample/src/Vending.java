@@ -12,6 +12,7 @@ public class Vending {
             case 'B':
                 System.out.println("bubble gum");
                 break;
+
             case 'C':
                 System.out.println("toy");
                 break;
