@@ -18,6 +18,7 @@ public class Marks {
             case 60:
                 System.out.println("D+");
                 break;
+
             default:
                 System.out.println("fail");
 
